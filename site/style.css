@@ -34,6 +34,18 @@ body {
     transition: 0.3s;
 }
 
+.Dungeon-price-color {
+    color: #bfa76f;
+}
+
+.Forgotten-price-color {
+    color: #bfa76f;
+}
+
+.Ritual-price-color {
+    color: #bfa76f;
+}
+
 .card:hover {
     transform: scale(1.03);
     border-color: #bfa76f;
