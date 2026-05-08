@@ -12,6 +12,11 @@ body {
     background-attachment: fixed;
 }
 
+.logo-gif {
+    width: 28%;
+    height: 150px;
+}
+
 .navbar {
     border-bottom: 1px solid #3a2f2f;
 }
